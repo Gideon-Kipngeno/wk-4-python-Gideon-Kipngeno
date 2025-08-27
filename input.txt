@@ -1,0 +1,6 @@
+Hello, welcome to National University.
+Python is a powerful programming language.
+This assignment is a great way to practice file handling.
+Always remember to save your work.
+Have fun learning Python my guy.
+To collaborate on projects reach out to me: kipngenio@gmail.com
